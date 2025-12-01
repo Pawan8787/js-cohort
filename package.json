@@ -1,0 +1,8 @@
+{
+  "name": "js-cohort",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node .devcontainer/basic/1.js"
+  }
+}
